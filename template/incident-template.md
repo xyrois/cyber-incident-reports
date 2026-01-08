@@ -1,4 +1,4 @@
-# Cyber Incident Report Title
+# Cyber Incident Report Title (includes date created)
 ---
 
 ## Victim Organization
