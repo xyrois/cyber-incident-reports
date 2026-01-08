@@ -1,4 +1,9 @@
 # Cyber Incident Report Title (includes date created)
+
+
+## Overview
+Brief summary of the incident, including the nature of the attack and its significance.
+
 ---
 
 ## Victim Organization
