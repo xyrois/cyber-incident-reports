@@ -51,22 +51,16 @@ Describe the consequences of the incident:
 ## Attribution
 Identify the responsible party if known:
 - Threat actor or group
-- Attribution confidence level (confirmed / suspected / unknown)
 - Sources supporting attribution
 
 ---
 
 ## Analysis & Opinion
-Your professional assessment:
+Your assessment:
 - What failed (technical, procedural, or organizational)?
 - What could have reduced the impact?
 - How could this incident have been prevented or detected earlier?
-
----
-
-## Key Takeaways
-Summarize the most important lessons learned from this incident.
-
+- The overall key takeaways
 ---
 
 ## Sources
